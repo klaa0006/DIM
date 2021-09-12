@@ -6,7 +6,6 @@ dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#not
 
 -- Reed's Regret
 dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021
-
 dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#notes:No first column barrel test
 
 ------ https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt ------
