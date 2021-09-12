@@ -8,4 +8,9 @@ dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#not
 dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021
 dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#notes:No first column barrel test
 
+-- Vulpecula
+-- Headstone + Outlaw
+dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337,758092021#notes:smallbore + tactical mag
+dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:Vanilla Headstone + Outlaw
+
 ------ https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt ------
