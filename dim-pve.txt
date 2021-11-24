@@ -1,29 +1,30 @@
 title:Chad Wish List
 description:personal PVE weapon roll wishlist
 
-//notes:Block comment for items below
--- The Long Walk
+//notes:Block comment for items below until blank line ends the block
+// The Long Walk
 -- corkscrew/appended/overflow/frenzy mw:stability [OWN IT]
 dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability. Mod: backup mag GODROLL
 
--- Fatebringer
+// Fatebringer
 --  Osmosis
 -- hammer/flared/osmosis/frenzy mw:range
 dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,2697220197#notes:chad (PVE): S-Tier. MW: Range. Mod: backup mag
 --  Firelfy
 --  Frenzy
 
--- Deafening Whisper
+// Deafening Whisper
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:chad (PVE): first item test
 
--- Reed's Regret
+// Reed's Regret
 dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021#notes:chad (PVE): 
 dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#notes:chad (PVE): No first column barrel test
 
--- Vulpecula
+// Vulpecula
 --  Headstone + Outlaw
 dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337,758092021#notes:chad (PVE): smallbore + tactical mag
 dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:chad (PVE): Headstone + Outlaw
+
 
 -- ------------------------------------
 -- SUPPORT MATERIAL
