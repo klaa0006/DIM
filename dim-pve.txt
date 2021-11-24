@@ -96,8 +96,10 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,3523296417,380
 -- ------------------------------------
 
 // Reed's Regret
-dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021#notes:chad (PVE): 
-dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#notes:chad (PVE): No first column barrel test
+-- arrowhead/ionized battery/triple tap/vorpal mw:reload
+dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021#notes:chad (PVE): A-Tier. MW: Reload.
+-- ionized battery/triple tap mw:reload
+dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#notes:chad (PVE): A-Tier. MW: Reload.
 
 -- --------------------------------------------------------------------------------------
 -- --------------------------------------------------------------------------------------
