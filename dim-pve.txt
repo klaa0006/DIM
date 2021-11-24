@@ -10,6 +10,9 @@ description:Chad first attempt at creating GOD roll lists for PVE
 //notes:Block comment for items below
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:Chad first item test
 
+-- The Long Walk
+dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability + backup mag GODROLL
+
 -- Reed's Regret
 dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021
 dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#notes:No first column barrel test
