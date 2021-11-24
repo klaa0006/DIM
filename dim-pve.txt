@@ -7,7 +7,7 @@ description:personal PVE weapon roll wishlist
 
 // Fatebringer
 -- hammer/flared/osmosis/frenzy mw:range
-dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,2697220197#notes:chad (PVE): S-Tier. MW: Range. Mod: Backup
+dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,2697220197#notes:chad (PVE): A-Tier. MW: Range. Mod: Backup
 --  Firelfy
 --  Frenzy
 
