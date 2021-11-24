@@ -69,7 +69,8 @@ dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,38
 -- ------------------------------------
 
 // Deafening Whisper
-dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:chad (PVE): first item test
+-- smart drift/high velocity/ambitious assassin/wellspring 
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:chad (PVE): A-Tier.
 
 // Ignition Code
 -- quick/spike/slideshot/demo mw: blast [OWN IT]
