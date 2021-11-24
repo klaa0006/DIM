@@ -2,10 +2,8 @@ title:Chad's wish list
 description:Personal PVE weapon roll wishlist
 
 //notes:Block comment for items below
--- Deafening Whisper
-dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:Chad first item test
-
 -- The Long Walk
+--  Own
 dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability. Mod: backup mag GODROLL
 
 -- Fatebringer
@@ -13,6 +11,9 @@ dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,38
 dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,2697220197#notes:chad (PVE): S-Tier. MW: Range. Mod: backup mag
 --  Firelfy
 --  Frenzy
+
+-- Deafening Whisper
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:Chad first item test
 
 -- Reed's Regret
 dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021
@@ -28,17 +29,35 @@ dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:Headstone
 -- ------------------------------------
 
 -- NOTES FORMAT
+-- --------------------------------------------------------------------------------------
 --  chad (PVE): ?-Tier. MW: ?. Mod: ?
 --  chad (PVE): ?-Tier. MW: ?. Mod: ? GODROLL
 --    ? Tier: S, A, B, C, F 
 --    ? Masterwork: Range, Reload, Stability, etc.
 --    ? Mod: backup mag, targetting, etc.
 
+
 -- HOW-TO
+-- --------------------------------------------------------------------------------------
 -- 1. Lookup perk name
---   https://www.light.gg/db/items/<perk # here>
+--    https://www.light.gg/db/items/<perk # here>
 -- 2. Lookup item
---   https://d2gunsmith.com/w/<item # here>
+--    https://d2gunsmith.com/w/<item # here>
+-- 3. Create wishlist reference links
+--    https://destinyitemmanager.fandom.com/wiki/Creating_Wish_Lists
 
 
------- https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt ------
+-- OTHER DIM WISHLIST EXAMPLES
+-- --------------------------------------------------------------------------------------
+--  Default page example
+--    https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt
+
+
+-- BLOCK NOTE EXAMPLE
+-- --------------------------------------------------------------------------------------
+-- //notes:These are notes that will apply to everything that immediately follows
+-- dimwishlist:item=2326716489&perks=202670084,3142289711,2117683199,47981717
+-- dimwishlist:item=2326716489&perks=3250034553,3142289711,2117683199,47981717
+-- dimwishlist:item=2326716489&perks=1467527085,3142289711,2117683199,47981717
+
+-- // ^ the blank line above will end the "block"
