@@ -11,7 +11,7 @@ description:Chad first attempt at creating GOD roll lists for PVE
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:Chad first item test
 
 -- The Long Walk
-dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability + backup mag GODROLL
+dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability. Mod: backup mag GODROLL
 
 -- Reed's Regret
 dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021
@@ -24,7 +24,7 @@ dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:Headstone
 
 -- Fatebringer
 -- Osmosis
-dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,2697220197#notes:chad (PVE): S-Tier. MW: Range + backup mag
+dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,2697220197#notes:chad (PVE): S-Tier. MW: Range. Mod: backup mag
 -- Firelfy
 -- Frenzy
 
