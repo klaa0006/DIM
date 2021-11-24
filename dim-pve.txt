@@ -8,13 +8,12 @@ description:personal PVE weapon roll wishlist
 // Fatebringer
 -- hammer/flared/osmosis/frenzy mw:range
 dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,2697220197#notes:chad (PVE): A-Tier. MW: Range. Mod: Backup
---  Firelfy
---  Frenzy
 
 // Vulpecula
---  Headstone + Outlaw
-dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337,758092021#notes:chad (PVE): smallbore + tactical mag
-dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:chad (PVE): Headstone + Outlaw
+-- smallbore/appended/outlaw/headstone mw:reload
+dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337,758092021#notes:chad (PVE): A-Tier. MW: Reload.
+-- outlaw/headstone mw:reload
+dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:chad (PVE): A-Tier. MW: Reload.
 
 -- ------------------------------------
 -- SCOUT RIFLE
@@ -152,3 +151,4 @@ dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#not
 -- 4104185692 frenzy
 -- 384158423 MW: Stability
 -- 2697220197 MW: Range
+-- 1482024992 smallbore
