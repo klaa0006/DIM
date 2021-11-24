@@ -4,7 +4,7 @@ description:personal PVE weapon roll wishlist
 //notes:Block comment for items below
 -- The Long Walk
 --  Own
-dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability. Mod: backup mag GODROLL 1
+dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability. Mod: backup mag GODROLL
 
 -- Fatebringer
 --  Osmosis
