@@ -13,16 +13,16 @@ dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,26
 --  Frenzy
 
 -- Deafening Whisper
-dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:Chad first item test
+dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:chad (PVE): first item test
 
 -- Reed's Regret
-dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021
-dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#notes:No first column barrel test
+dimwishlist:item=1399243961&perks=839105230,1483536627,3400784728,1546637391,758092021#notes:chad (PVE): 
+dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#notes:chad (PVE): No first column barrel test
 
 -- Vulpecula
 --  Headstone + Outlaw
-dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337,758092021#notes:smallbore + tactical mag
-dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:Headstone + Outlaw
+dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337,758092021#notes:chad (PVE): smallbore + tactical mag
+dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:chad (PVE): Headstone + Outlaw
 
 -- ------------------------------------
 -- SUPPORT MATERIAL
