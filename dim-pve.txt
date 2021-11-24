@@ -11,6 +11,9 @@ dimwishlist:item=1399243961&perks=1483536627,3400784728,1546637391,758092021#not
 -- Vulpecula
 -- Headstone + Outlaw
 dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337,758092021#notes:smallbore + tactical mag
-dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:Vanilla Headstone + Outlaw
+dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:Headstone + Outlaw
+
+-- Fatebringer
+dimwishlist:item=2171478765&perks=3250034553,3230963543,1774574192,4104185692,2697220197#notes:backup mag
 
 ------ https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt ------
