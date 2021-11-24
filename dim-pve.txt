@@ -1,5 +1,5 @@
-title:Chad's wish list
-description:Personal PVE weapon roll wishlist
+title:Chad Wish List
+description:personal PVE weapon roll wishlist
 
 //notes:Block comment for items below
 -- The Long Walk
