@@ -76,6 +76,10 @@ dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#not
 -- quick/spike/slideshot/demo mw: blast [OWN IT]
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,3523296417,3803457565#notes:chad (PVE): A-Tier. MW: Blast Radius.
 
+// Pardon our Dust
+-- quick/blind/auto/danger zone
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,960810156,1154004463
+
 -- ------------------------------------
 -- GRENAGE LAUNCHER (heavy)
 -- ------------------------------------
