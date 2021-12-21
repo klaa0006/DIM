@@ -19,6 +19,9 @@ dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:chad (PVE
 -- SCOUT RIFLE
 -- ------------------------------------
 
+// Night Watch
+-- cork/extend mag/overflow/explosive payload
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973,186337601#chad (PVE): S-Tier. MW: Handling. QUEST REWARD
 
 -- ------------------------------------
 -- PULSE RIFLE
