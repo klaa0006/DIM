@@ -20,7 +20,7 @@ dimwishlist:item=1622998472&perks=1168162263,124408337,758092021#notes:chad (PVE
 -- ------------------------------------
 
 // Night Watch
--- cork/extend mag/overflow/explosive payload
+-- cork/extend mag/overflow/explosive payload {OWN}
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973,186337601#chad (PVE): S-Tier. MW: Handling. QUEST REWARD
 
 -- ------------------------------------
@@ -53,7 +53,7 @@ dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973,18
 -- ------------------------------------
 
 // The Long Walk
--- corkscrew/appended/overflow/frenzy mw:stability [OWN IT]
+-- corkscrew/appended/overflow/frenzy mw:stability {OWN}
 dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability. Mod: Backup GODROLL
 
 
@@ -76,7 +76,7 @@ dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,38
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738#notes:chad (PVE): A-Tier.
 
 // Ignition Code
--- quick/spike/slideshot/demo mw: blast [OWN IT]
+-- quick/spike/slideshot/demo mw: blast {OWN}
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,3523296417,3803457565#notes:chad (PVE): A-Tier. MW: Blast Radius.
 
 // Pardon our Dust
