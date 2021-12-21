@@ -53,8 +53,8 @@ dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973,18
 -- ------------------------------------
 
 // The Long Walk
--- corkscrew/appended/overflow/frenzy mw:stability {OWN}
-dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability. Mod: Backup GODROLL
+-- corkscrew/appended/overflow/frenzy mw:stability {OWN} {GODROLL}
+dimwishlist:item=3326850591&perks=4090651448,1087426260,3643424744,4104185692,384158423#notes:chad (PVE): S-Tier. MW: Stability. Mod: Backup
 
 
 -- ------------------------------------
