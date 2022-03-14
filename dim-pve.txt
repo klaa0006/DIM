@@ -7,7 +7,6 @@ description:personal PVE weapon roll wishlist
 -- SUPPORT MATERIAL
 -- Vow of Disciple Raid Weapons | https://youtu.be/DG-IHA1DUHg | Fallout
 
-
 // Cantata-57
 -- smallbore/accruized/rapidhit/rangefinder {OWN}
 -- https://youtu.be/cWtmxw1gwiM | Aztecross
@@ -16,6 +15,7 @@ dimwishlist:item=372697604&perks=1482024992,3142289711,247725512,2846385770#note
 -- ------------------------------------
 -- SEASON 16: WITCH QUEEN - PVE EVALUATE
 -- ------------------------------------
+
 // Krait
 -- statsforall/oneforall
 dimwishlist:item=2852052802&perks=1583705720,4049631843#notes:chad (PVE): keep it + try it
