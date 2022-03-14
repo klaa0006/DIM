@@ -44,6 +44,11 @@ dimwishlist:item=2342054803&perks=1048183818,1683379515#notes:chad (PVE): evalua
 -- statsforall/dragonfly
 dimwishlist:item=2342054803&perks=1583705720,2848615171#notes:chad (PVE): evaluate
 
+// Snorri FR5
+-- compulsivereload/resburst
+dimwishlist:item=4114929480&perks=671806388,1427256713#notes:chad (PVE): evaluate
+-- statsforall/oneforall
+dimwishlist:item=4114929480&perks=1583705720,4049631843#notes:chad (PVE): evaluate
 
 -- ------------------------------------
 -- HAND CANNON
