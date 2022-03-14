@@ -23,7 +23,7 @@ dimwishlist:item=372697604&perks=1482024992,3142289711,247725512,2846385770#note
 -- statsforall/oneforall
 dimwishlist:item=2852052802&perks=1583705720,4049631843
 -- subsist/oneforall
-dimwishlist:item=2852052802&perks=1820235745,4049631843
+dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:chad (PVE): keep it + try it
 // Perses-D
 -- statsforall/headstone
 dimwishlist:item=1019000888&perks=1583705720,124408337
