@@ -13,6 +13,10 @@ description:personal PVE weapon roll wishlist
 -- https://youtu.be/cWtmxw1gwiM | Aztecross
 dimwishlist:item=372697604&perks=1482024992,3142289711,247725512,2846385770#notes:chad (PVP): A-Tier.
 
+// Krait
+-- statsforall/oneforall
+dimwishlist:item=2852052802,1583705720,4049631843#notes:chad (PVE): A-Tier.
+
 -- ------------------------------------
 -- HAND CANNON
 -- ------------------------------------
