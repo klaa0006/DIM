@@ -15,14 +15,29 @@ dimwishlist:item=372697604&perks=1482024992,3142289711,247725512,2846385770#note
 
 // Krait
 -- statsforall/oneforall
-dimwishlist:item=2852052802&perks=1583705720,4049631843#notes:chad (PVE): A-Tier.
+dimwishlist:item=2852052802&perks=1583705720,4049631843#notes:chad (PVE): keep it + try it
 -- subsist/oneforall
-dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:chad (PVE): A-Tier.
-
+dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:chad (PVE): keep it + try it
 
 // Perses-D
 -- statsforall/headstone
-dimwishlist:item=1019000888&perks=1583705720,124408337#notes:chad (PVE): A-Tier.
+dimwishlist:item=1019000888&perks=1583705720,124408337#notes:chad (PVE): keep it + try it
+
+// Funnelweb
+-- subsist/frenzy
+dimwishlist:item=3341893443&perks=1820235745,4104185692#notes:chad (PVE): keep it + try it
+-- subsist/adrenjunkie
+dimwishlist:item=3341893443&perks=1820235745,11612903#notes:chad (PVE): keep it + try it
+
+// OGMA PR6
+-- statsforall/oneforall
+dimwishlist:item=2342054803&perks=1583705720,4049631843#notes:chad (PVE): keep it + try it
+-- demo/wellspring
+dimwishlist:item=2342054803&perks=3523296417,3592538738#notes:chad (PVE): keep it + try it
+-- demo/adrenjunkie
+dimwishlist:item=2342054803&perks=3523296417,11612903#notes:chad (PVE): keep it + try it
+-- adaptivemunitions/disruptionbreak
+dimwishlist:item=2342054803&perks=1048183818,1683379515#notes:chad (PVE): keep it + try it
 
 -- ------------------------------------
 -- HAND CANNON
