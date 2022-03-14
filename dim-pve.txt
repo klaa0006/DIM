@@ -13,33 +13,36 @@ description:personal PVE weapon roll wishlist
 -- https://youtu.be/cWtmxw1gwiM | Aztecross
 dimwishlist:item=372697604&perks=1482024992,3142289711,247725512,2846385770#notes:chad (PVP): A-Tier.
 
+-- ------------------------------------
+-- SEASON 16: WITCH QUEEN : PVE EVALUATE
+-- ------------------------------------
+-- notes end below after blank line
+//notes:chad (PVE): keep it + try it
 // Krait
 -- statsforall/oneforall
-dimwishlist:item=2852052802&perks=1583705720,4049631843#notes:chad (PVE): keep it + try it
+dimwishlist:item=2852052802&perks=1583705720,4049631843
 -- subsist/oneforall
-dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:chad (PVE): keep it + try it
-
+dimwishlist:item=2852052802&perks=1820235745,4049631843
 // Perses-D
 -- statsforall/headstone
-dimwishlist:item=1019000888&perks=1583705720,124408337#notes:chad (PVE): keep it + try it
-
+dimwishlist:item=1019000888&perks=1583705720,124408337
 // Funnelweb
 -- subsist/frenzy
-dimwishlist:item=3341893443&perks=1820235745,4104185692#notes:chad (PVE): keep it + try it
+dimwishlist:item=3341893443&perks=1820235745,4104185692
 -- subsist/adrenjunkie
-dimwishlist:item=3341893443&perks=1820235745,11612903#notes:chad (PVE): keep it + try it
-
+dimwishlist:item=3341893443&perks=1820235745,11612903
 // OGMA PR6
 -- statsforall/oneforall
-dimwishlist:item=2342054803&perks=1583705720,4049631843#notes:chad (PVE): keep it + try it
+dimwishlist:item=2342054803&perks=1583705720,4049631843
 -- demo/wellspring
-dimwishlist:item=2342054803&perks=3523296417,3592538738#notes:chad (PVE): keep it + try it
+dimwishlist:item=2342054803&perks=3523296417,3592538738
 -- demo/adrenjunkie
-dimwishlist:item=2342054803&perks=3523296417,11612903#notes:chad (PVE): keep it + try it
+dimwishlist:item=2342054803&perks=3523296417,11612903
 -- adaptivemunitions/disruptionbreak
-dimwishlist:item=2342054803&perks=1048183818,1683379515#notes:chad (PVE): keep it + try it
+dimwishlist:item=2342054803&perks=1048183818,1683379515
 -- statsforall/dragonfly
-dimwishlist:item=2342054803&perks=1583705720,2848615171#notes:chad (PVE): keep it + try it
+dimwishlist:item=2342054803&perks=1583705720,2848615171
+
 
 -- ------------------------------------
 -- HAND CANNON
