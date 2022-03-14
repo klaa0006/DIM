@@ -4,6 +4,9 @@ description:personal PVE weapon roll wishlist
 -- ------------------------------------
 -- SEASON 16: WITCH QUEEN
 -- ------------------------------------
+-- SUPPORT MATERIAL
+-- Raid Weapons | https://youtu.be/DG-IHA1DUHg | Fallout
+
 
 // Cantata-57
 -- smallbore/accruized/rapidhit/rangefinder mw:handling {OWN}
