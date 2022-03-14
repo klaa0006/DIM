@@ -50,6 +50,10 @@ dimwishlist:item=4114929480&perks=671806388,1427256713#notes:chad (PVE): evaluat
 -- statsforall/oneforall
 dimwishlist:item=4114929480&perks=1583705720,4049631843#notes:chad (PVE): evaluate
 
+// Crisis Inverted
+-- demo/adrenjunkie
+dimwishlist:item=2888266564&perks=3523296417,11612903#notes:chad (PVE): evaluate
+
 -- ------------------------------------
 -- HAND CANNON
 -- ------------------------------------
