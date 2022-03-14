@@ -5,8 +5,10 @@ description:personal PVE weapon roll wishlist
 -- SEASON 16: WITCH QUEEN
 -- ------------------------------------
 
-
-
+// Cantata-57
+-- smallbore/accruized/eyeofstorm/range
+-- https://youtu.be/cWtmxw1gwiM | Aztecross
+dimwishlist:item=372697604,1482024992,3142289711,699525795,2846385770,186337601
 
 -- ------------------------------------
 -- HAND CANNON
