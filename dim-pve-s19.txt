@@ -64,14 +64,14 @@ dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579
 -- ------------------------------------
 -- SNIPER RIFLE
 -- ------------------------------------
-// Succession (PvE first choice roll)
+// SUCCESSION (PvE first choice roll)
 // Arrowhead Break / Ionized Battery / Reconstruction / (Firing Line, Vorpal, Focused Fury)
 //notes:chad (PVE): S-Tier, MW: Handling|Range, Mod: Backup Mag.  PvE first choice roll. Boss dps with 10 shots in the magazine!
 dimwishlist:item=2990047042&perks=839105230,2420895100,1523832109,1771339417
 dimwishlist:item=2990047042&perks=839105230,2420895100,1523832109,1546637391
 dimwishlist:item=2990047042&perks=839105230,2420895100,1523832109,2896038713
 
-// Succession
+// SUCCESSION (PvE backup roll)
 // Arrowhead Break / Range / Reconstruction / (Firing Line, Vorpal, Focused Fury)
 //notes:chad (PVE): S-Tier, MW: Handling|Range, Mod: Backup Mag. PvE backup roll.
 dimwishlist:item=2990047042&perks=839105230,3142289711,1523832109,1771339417
