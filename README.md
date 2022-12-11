@@ -29,11 +29,14 @@ dimwishlist:item=2326716489&perks=1467527085,3142289711,2117683199,47981717
 // ^ the blank line above will end the "block"
 
 # EXTERNAL RESOURCES
-Default page example
+Default rolls
 - https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt
 
 D2Checklist god rolls
 - https://gist.github.com/dcaslin/e614cf030f14c41e07c87f6f7f08d465
+
+Player vs. Enemies rolls
+- https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
 
 # PERKS
 - 839105230 | Arrowhead Brake
