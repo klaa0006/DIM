@@ -66,6 +66,10 @@ dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579
 -- ------------------------------------
 -- SIDEARM
 -- ------------------------------------
+FIORITURA-59
+// Hammer forged / Flared magwell / Threat detector / Repulsers Brace
+//notes:chad (PVE): ?-Tier, MW: range.  Is this good for any void builds?
+dimwishlist:item=2566006935&perks=3250034553,3230963543,4071163871,776531651
 
 -- ------------------------------------
 -- SNIPER RIFLE
