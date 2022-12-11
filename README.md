@@ -31,6 +31,7 @@ dimwishlist:item=2326716489&perks=1467527085,3142289711,2117683199,47981717
 # EXTERNAL RESOURCES
 Default page example
 - https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt
+
 D2Checklist god rolls
 - https://gist.github.com/dcaslin/e614cf030f14c41e07c87f6f7f08d465
 
