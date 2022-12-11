@@ -5,9 +5,10 @@ Destiny Item Manager Wish lists
 Examples:
 - chad (PVE): ?-Tier. MW: ?. Mod: ?
 - chad (PVE): ?-Tier. MW: ?. Mod: ? GODROLL
-  - ? Tier: S, A, B, C, F 
-  - ? Masterwork: Range, Reload, Stability, etc.
-  - ? Mod: backup mag, targetting, etc.
+Metadata
+- Tiers: S, A, B, C, F 
+- Masterwork: Range, Reload, Stability, etc.
+- Mod: backup mag, targetting, etc.
 
 
 # HOW-TO
