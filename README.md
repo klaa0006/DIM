@@ -38,6 +38,13 @@ D2Checklist god rolls
 Player vs. Enemies rolls
 - https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
 
+# USE CASES
+Optional PvE use case tags 
+- pve-endgame - suggested perks for use in end-game (primarily power-capped) activities. Perks generally don't need a weapon kill to proc. Absence  is implied pve-general and indicates traits good for general content, but generally require a kill to activate.
+- pve-champion (good perk combinations) - specific perk combinations for stunning anti-Barrier, anti-Overload, or anti-Unstoppable champions
+- pve-solo - combination of perks that are useful for solo activities such as Lost Sectors or solo runs through activities for seasonal triumphs
+Source: https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/barrels-mags-groupings.txt
+
 # PERKS
 - 839105230 | Arrowhead Brake
 - 3250034553 | hammer-forged rifling
