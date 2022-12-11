@@ -16,10 +16,11 @@ Metadata
 1. Lookup perk name
     - https://www.light.gg/db/items/<perk # here>
 2. Lookup item
-  - https://d2gunsmith.com/w/<item # here>
+    - https://d2gunsmith.com/w/<item # here>
 3. Create wishlist reference links
-  - https://destinyitemmanager.fandom.com/wiki/Creating_Wish_Lists
+    - https://destinyitemmanager.fandom.com/wiki/Creating_Wish_Lists
 4. Create block comments
+
 //notes:These are notes that will apply to everything that immediately follows
 dimwishlist:item=2326716489&perks=202670084,3142289711,2117683199,47981717
 dimwishlist:item=2326716489&perks=3250034553,3142289711,2117683199,47981717
