@@ -14,7 +14,7 @@ Metadata
 
 # HOW-TO
 1. Lookup perk name
-  - https://www.light.gg/db/items/<perk # here>
+    - https://www.light.gg/db/items/<perk # here>
 2. Lookup item
   - https://d2gunsmith.com/w/<item # here>
 3. Create wishlist reference links
