@@ -2,7 +2,6 @@ title:Chad's Season 19 Wish List
 description:Personal PVE weapon roll wishlist
 
 // AURVANDIL FR6
-
 notes:How many shots before chill clip deactivates with reconstruction?  Arrowhead Break | Reconstruction | Chill Clip all most have perks. Tags: pve
 -- Arrowhead Break / Enhanced Battery / Reconstruction / Chill Clip
 dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2978966579#notes:chad (PVE): A-Tier. personal roll
