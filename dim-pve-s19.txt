@@ -1,0 +1,6 @@
+title:Chad's Season 19 Wish List
+description:Personal PVE weapon roll wishlist
+
+AURVANDIL FR6
+Arrowhead Break / Reconstruction / Chill Clip
+dimwishlist:item=963710795&perks=839105230,1523832109,2978966579
