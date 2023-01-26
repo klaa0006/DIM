@@ -1,5 +1,10 @@
 title:S19-wishlist
-description: Season 19 weapons to chase
+description:Season 19 weapons to chase
+
+// Aurvandil FR6 (pve)
+//notes: chad (PVE): MW: charge time tags:pve
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579
+
 
 // Servant Leader (pve,god-pve)
 //notes: chad (PVE): MW: reload tags:pve,god-pve

@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "Season 19 weapons to chase",
     "name": "S19-wishlist",
     "data": [
         {
@@ -133,6 +133,28 @@
                 ],
                 [
                     11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "chad (PVE): MW: charge time",
+            "hash": 963710795,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    2978966579
                 ]
             ],
             "tags": [
