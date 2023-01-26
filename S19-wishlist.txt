@@ -1,4 +1,5 @@
-title:S19 Wishlist
+title:S19-wishlist
+description: Season 19 weapons to chase
 
 // Servant Leader (pve,god-pve)
 //notes: chad (PVE): MW: reload tags:pve,god-pve
