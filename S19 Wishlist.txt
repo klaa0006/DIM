@@ -1,0 +1,34 @@
+title:S19 Wishlist
+
+// Servant Leader (pve,god-pve)
+//notes: chad (PVE): MW: reload tags:pve,god-pve
+dimwishlist:item=1107446438&perks=839105230,106909392,247725512,4104185692
+
+
+// Lodbrok-C (pve)
+//notes: chad (PVE): MW: reload tags:pve
+dimwishlist:item=2328531378&perks=1482024992,3230963543,3523296417,11612903
+dimwishlist:item=2328531378&perks=1482024992,3230963543,1774574192,11612903
+
+
+// Prolonged Engagement - [owned] (pve,controller)
+//notes: chad (PVE): MW: range tags:pve,controller
+dimwishlist:item=2349907931&perks=1482024992,3230963543,1820235745,4104185692
+
+
+// Prolonged Engagement (pve,mnk)
+//notes: chad (PVE): MW: range tags:pve,mnk
+dimwishlist:item=2349907931&perks=1467527085,3230963543,1820235745,4104185692
+
+
+// Riptide (pve)
+//notes: chad (PVE): MW: reload tags:pve
+dimwishlist:item=2715240478&perks=839105230,2680121939,1556840489,2978966579
+dimwishlist:item=2715240478&perks=839105230,2680121939,2869569095,2978966579
+
+
+// Riptide - [owned] (pve)
+//notes: chad (PVE): MW: handling tags:pve
+dimwishlist:item=2715240478&perks=
+
+
