@@ -1,6 +1,6 @@
 {
-    "description": "Season 19 weapons to chase",
-    "name": "S19-wishlist",
+    "description": "",
+    "name": "S19 Wishlist",
     "data": [
         {
             "description": "chad (PVE): MW: reload",
@@ -29,7 +29,20 @@
             "description": "chad (PVE): MW: handling",
             "hash": 2715240478,
             "name": "[owned]",
-            "plugs": [],
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2978966579
+                ]
+            ],
             "tags": [
                 "PVE"
             ]
